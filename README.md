@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img title="Job Ready Programmer Banner" alt="Job Ready Programmer Banner" src="/images/JRP_GitHub_Banner.png">
+<img title="Job Ready Programmer Banner" alt="Job Ready Programmer Banner" src="/JRP_GitHub_Banner.png">
 
 - Here's what we work on: Teaching 500,000+ students how to code from scratch (Online) (Remote)
 - Skills/Languages:
